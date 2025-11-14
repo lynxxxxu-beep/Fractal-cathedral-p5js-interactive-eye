@@ -1,22 +1,21 @@
-# Fractal-cathedral-p5js-interactive-eye
 My 2025 s1 assignment in RMIT.
 
-# 🌌 Interactive Eye (p5.js + WebGL2)
+# 🌌 Interactive Eye
 
-An interactive visual experiment exploring gaze, reflection, and perception through fractal-inspired shaders.
+An interactive visual experiment exploring p5js+WebGL2, fractal(Mandelbrot set & Julia set), machine learning.
 
 ## 🎨 Description
-This sketch simulates a responsive eye that follows the user's cursor and reacts to movement.
-It uses **p5.js + WebGL2** and integrates **noise-based deformation** and **color blending** techniques inspired by glitch aesthetics.
+This sketch simulates a responsive eye that follows the audience's face and reacts to movement through computer camera.
+It uses **p5.js + WebGL2** and integrates **evolution of fractal** and **color blending** techniques inspired by classical fractals aesthetics.
 
 ## 🧠 Concept
-Inspired by the idea of “seeing through the defect,” this work explores how small distortions can create a sense of life and awareness.
+Inspired by the idea of “seeing through the defect,” this work is part of our studio work, which explores how small distortions can create a sense of life and awareness. This programming part act as the main projection of the whole project. To see the full project design research compendium, please see the file: **DRC.pdf**
 
 ## 🛠️ Technologies
-- p5.js (WebGL2 mode)
-- GLSL fragment shaders
-- Perlin noise for deformation
-- Real-time interaction (mouse tracking)
+- p5.js
+- WebGL2
+- ml5.js
+- classical fractal (Julia set)
 
 ## 📸 Preview
 ![preview](link-to-your-image-or-gif)
@@ -25,6 +24,6 @@ Inspired by the idea of “seeing through the defect,” this work explores how 
 👉 [Try it on OpenProcessing](https://openprocessing.org/sketch/xxxxx)
 
 ## 👩‍💻 Author
-**Lynx Xu**  
+**Yixing Lynx Xu**  
 Master of Design, Innovation & Technology @ RMIT University  
 [Portfolio Link](https://your-notion-or-portfolio-link.com)
