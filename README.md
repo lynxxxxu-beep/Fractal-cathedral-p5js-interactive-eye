@@ -25,8 +25,10 @@ Inspired by the idea of “seeing through the defect,” this work is part of ou
 ## 🧩 Live Demo
 👉 [Try it on p5js](https://editor.p5js.org/LynxXu/full/XmzyDFsN0)
 ↑ The eye will track your face through the input of your camera.
+
 👉 [Progress1: First try on ml5+fractal](https://editor.p5js.org/LynxXu/full/PvKHHqEVe)
 ↑ Move your mouse to interact
+
 👉 [Progress2: First try on WebGL2+fractal](https://editor.p5js.org/LynxXu/full/XmzyDFsN0)
 ↑ Show your two hands to the camera and make some poses
 
