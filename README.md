@@ -9,7 +9,7 @@ This sketch simulates a responsive eye that follows the audience's face and reac
 It uses **p5.js + WebGL2** and integrates **evolution of fractal** and **color blending** techniques inspired by classical fractals aesthetics.
 
 ## 🧠 Concept
-Inspired by the idea of “seeing through the defect,” this work is part of our studio work, which explores how small distortions can create a sense of life and awareness. This programming part act as the main projection of the whole project. To see the full project design research compendium, please see the file: **DRC.pdf**
+Inspired by the idea of “seeing through the defect,” this work is part of our studio work, which explores how small distortions can create a sense of life and awareness. This programming part act as the main projection of the whole project. To see the full project design research compendium, please see the ![**FILE**](DRC.pdf).
 
 ## 🛠️ Technologies
 - p5.js
@@ -18,10 +18,12 @@ Inspired by the idea of “seeing through the defect,” this work is part of ou
 - classical fractal (Julia set)
 
 ## 📸 Preview
-![preview](link-to-your-image-or-gif)
+![preview1](ver0.gif)
+![preview1](ver1.gif)
+![preview1](ver1.1.gif)
 
 ## 🧩 Live Demo
-👉 [Try it on OpenProcessing](https://openprocessing.org/sketch/xxxxx)
+👉 [Try it on p5js](https://editor.p5js.org/LynxXu/full/XmzyDFsN0)
 
 ## 👩‍💻 Author
 **Yixing Lynx Xu**  
