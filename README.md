@@ -1,4 +1,4 @@
-My 2025 s1 assignment in RMIT.
+My 2025 s1 studio and CPD final assignment in RMIT.
 
 # 🌌 Interactive Eye
 
